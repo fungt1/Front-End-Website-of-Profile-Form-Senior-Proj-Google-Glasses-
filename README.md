@@ -2,10 +2,10 @@ This is a profile form for a senior project I am working on with a group. This f
 
 The site does not run through github because the whole part of the backend is not implemented in this section. Since I am not running the program, pictures of each part of the form are provided in the folders section.
 
-Langauges being used: Html,css,javascript,php,mySQL
+Langauges being used: Html,css,javascript,
 
-Server: Apache24 Database: MySQL CSS frameworks: bootstrap. Javascript library: jQuery.
+ CSS frameworks: bootstrap. Javascript library: jQuery.
 
-Tools: phpmyadmin, mySQL worknech, mySQL command line client.
+Tools: Visual Studio Code.
 
-Helpful links: https://jquery.com/ jQuery https://www.phpmyadmin.net/ https://www.mysql.com/ mySQL download https://getbootstrap.com/ bootstrap extensions
+Helpful links: https://jquery.com/ jQuery https://www.phpmyadmin.net/  https://getbootstrap.com/ bootstrap extensions
